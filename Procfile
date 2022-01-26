@@ -1,0 +1,1 @@
+web: gunicorn heloword.wsgi --log-file -
