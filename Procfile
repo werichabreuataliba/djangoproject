@@ -1,1 +1,1 @@
-web gunicorn heloword.wsgi --log-file -
+web: gunicorn heloworld.wsgi --log-file -
